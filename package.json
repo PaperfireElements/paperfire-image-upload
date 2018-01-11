@@ -1,0 +1,30 @@
+{
+  "name": "paperfire-image-upload",
+  "version": "0.1.0",
+  "description": "A web component to upload images to firebase storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaperfireElements/paperfire-image-upload.git"
+  },
+  "keywords": [
+    "firebase",
+    "webcomponent",
+    "firebase",
+    "storage",
+    "skatejs"
+  ],
+  "author": "Alexander Kushi-Willis <alexander@ackushiw.com> (http://www.ackushiw.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaperfireElements/paperfire-image-upload/issues"
+  },
+  "homepage": "https://github.com/PaperfireElements/paperfire-image-upload#readme",
+  "dependencies": {
+    "firebase": "^4.8.2",
+    "skatejs": "^5.1.1"
+  }
+}
