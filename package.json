@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/PaperfireElements/paperfire-image-upload#readme",
   "dependencies": {
-    "firebase": "^4.8.2",
-    "skatejs": "^5.1.1"
+    "firebase": "^6.3.0",
+    "skatejs": "^5.2.4"
   }
 }
